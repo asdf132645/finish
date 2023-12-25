@@ -29,12 +29,12 @@ export function Home() {
                 color="white"
                 className="mb-6 font-black"
               >
-                Your story starts with us.
+                투데이 덤프 서비스 안내
               </Typography>
               <Typography variant="lead" color="white" className="opacity-80">
-                This is a simple example of a Landing Page you can build using
-                Material Tailwind. It features multiple components based on the
-                Tailwind CSS and Material Design by Google.
+                투데이 덤프는 용량, 장소 등을 고려하여 무료 견적을 제공해 드립니다.
+                신속한 방문과 신뢰할 수 있는 철저한 뒷정리로 수거를 책임집니다.<br></br>
+                전문 인력과 최신 설비를 활용하여 신속하게 처리합니다.
               </Typography>
             </div>
           </div>
